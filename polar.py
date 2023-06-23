@@ -1,6 +1,9 @@
 #!/usr/local/bin/python3
 #
-# Authors: [PLEASE PUT YOUR NAMES AND USER IDS HERE]
+# Authors
+# Hithesh Busetty
+# Dinesh challa
+# Ujwala Shenoy
 #
 # Ice layer finder
 # Based on skeleton code by D. Crandall, November 2021
